@@ -9,6 +9,7 @@ A collection of my coding solutions and problem-solving practice.
 
 | Number | Problem Name | Difficulty |
 | --- | --- | --- |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](./Arrays/2913-Subarrays-Distinct-Element-Sum-Of-Squares-I.java) | Easy |
 | 3996 | [Even Number of Knight Moves](./Arrays/3996-Even-Number-Of-Knight-Moves.java) | Easy |
 
 ### Database
