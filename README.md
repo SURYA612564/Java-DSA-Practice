@@ -25,4 +25,10 @@ A collection of my coding solutions and problem-solving practice.
 | Number | Problem Name | Difficulty |
 | --- | --- | --- |
 | 3 | [Longest Substring Without Repeating Characters](./STRINGS/3-Longest-Substring-Without-Repeating-Characters.java) | Medium |
+
+### Math
+
+| Number | Problem Name | Difficulty |
+| --- | --- | --- |
+| 762 | [Prime Number of Set Bits in Binary Representation](./Math/762-Prime-Number-Of-Set-Bits-In-Binary-Representation.java) | Easy |
 <!-- CODING-PLATFORM-END -->
