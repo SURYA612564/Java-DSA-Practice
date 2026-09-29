@@ -31,4 +31,10 @@ A collection of my coding solutions and problem-solving practice.
 | Number | Problem Name | Difficulty |
 | --- | --- | --- |
 | 762 | [Prime Number of Set Bits in Binary Representation](./Math/762-Prime-Number-Of-Set-Bits-In-Binary-Representation.java) | Easy |
+
+### String
+
+| Number | Problem Name | Difficulty |
+| --- | --- | --- |
+| 1935 | [Maximum Number of Words You Can Type](./STRINGS/1935-Maximum-Number-Of-Words-You-Can-Type.java) | Easy |
 <!-- CODING-PLATFORM-END -->
