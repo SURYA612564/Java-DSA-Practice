@@ -12,6 +12,7 @@ A collection of my coding solutions and problem-solving practice.
 | 1475 | [Final Prices With a Special Discount in a Shop](./Arrays/1475-Final-Prices-With-A-Special-Discount-In-A-Shop.java) | Easy |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](./Arrays/2913-Subarrays-Distinct-Element-Sum-Of-Squares-I.java) | Easy |
 | 3046 | [Split the Array](./Arrays/3046-Split-The-Array.java) | Easy |
+| 3895 | [Count Digit Appearances](./Arrays/3895-Count-Digit-Appearances.java) | Medium |
 | 3996 | [Even Number of Knight Moves](./Arrays/3996-Even-Number-Of-Knight-Moves.java) | Easy |
 
 ### Database
