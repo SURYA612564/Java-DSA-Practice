@@ -21,6 +21,12 @@ A collection of my coding solutions and problem-solving practice.
 | --- | --- | --- |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](./Database/2356-Number-Of-Unique-Subjects-Taught-By-Each-Teacher.java) | Easy |
 
+### Dynamic Programming
+
+| Number | Problem Name | Difficulty |
+| --- | --- | --- |
+| 213 | [House Robber II](./DYNAMIC%20PROGRAMMING/213-House-Robber-Ii.java) | Medium |
+
 ### Hash Table
 
 | Number | Problem Name | Difficulty |
