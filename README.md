@@ -26,6 +26,7 @@ A collection of my coding solutions and problem-solving practice.
 | Number | Problem Name | Difficulty |
 | --- | --- | --- |
 | 213 | [House Robber II](./DYNAMIC%20PROGRAMMING/213-House-Robber-Ii.java) | Medium |
+| 1143 | [Longest Common Subsequence](./DYNAMIC%20PROGRAMMING/1143-Longest-Common-Subsequence.java) | Medium |
 
 ### Hash Table
 
