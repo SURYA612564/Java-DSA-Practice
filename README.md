@@ -10,6 +10,7 @@ A collection of my coding solutions and problem-solving practice.
 | Number | Problem Name | Difficulty |
 | --- | --- | --- |
 | 1475 | [Final Prices With a Special Discount in a Shop](./Arrays/1475-Final-Prices-With-A-Special-Discount-In-A-Shop.java) | Easy |
+| 2133 | [Check if Every Row and Column Contains All Numbers](./Arrays/2133-Check-If-Every-Row-And-Column-Contains-All-Numbers.java) | Easy |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](./Arrays/2913-Subarrays-Distinct-Element-Sum-Of-Squares-I.java) | Easy |
 | 3046 | [Split the Array](./Arrays/3046-Split-The-Array.java) | Easy |
 | 3895 | [Count Digit Appearances](./Arrays/3895-Count-Digit-Appearances.java) | Medium |
