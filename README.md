@@ -34,6 +34,7 @@ A collection of my coding solutions and problem-solving practice.
 | Number | Problem Name | Difficulty |
 | --- | --- | --- |
 | 3 | [Longest Substring Without Repeating Characters](./STRINGS/3-Longest-Substring-Without-Repeating-Characters.java) | Medium |
+| 3438 | [Find Valid Pair of Adjacent Digits in String](./Hash%20Table/3438-Find-Valid-Pair-Of-Adjacent-Digits-In-String.java) | Easy |
 
 ### Math
 
